@@ -1,20 +1,9 @@
-# Time Slicer 0.1
+# Time Slicer
 
-A graphical tool for creating Timeslice images from timelapses.
+<img width="922" height="949" alt="image" src="https://github.com/user-attachments/assets/261e7f91-f29e-4097-9fbc-dbbd2329f055" />
 
-- Should work on Windows, Linux, Mac etc. but you need to compile it by yourself.
-- Linear transition with rotation and scaling
-- Radial transition (To be coded)
-- Image preview for parameter tuning
-- Threaded calculations
-- Drag'n'drop image adding
+Graphic tool for making image collages. Great for timelapses or comparisons
 
+Images can be reordered to change their position
 
-Most of the features are still under development and the project is more like a one day/weekend project.
-The software was created just to have something to compete against commercial tools and Photoshop scripts and to stich together my sunset timelapse.
-The software can/will be developed further if there's demand for this kind of program.
-
-![alt text](https://raw.githubusercontent.com/petrinm/timeslicer/master/screen_0.png "Sceenshotty")
-
-Feel free to comment and contribute!
-
+set blur between each slice, slice angle, and dropshadow settings for each section
